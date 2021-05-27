@@ -4,6 +4,7 @@
 //
 //  Created by Christopher Lucier on 5/27/21.
 // published to Github for Udacity Grading
+//code built using Udacity lessons including fixing the button aspects from linked StackOverflow articles
 
 import UIKit
 import AVFoundation
